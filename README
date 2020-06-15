@@ -1,0 +1,9 @@
+Strona została wykonana tak, aby spełnić wymagania przedstawione przez prowadzącego.
+1. Drag&drop + automatyczne tworzenie - jest "Wszystkie zdjęcia"
+2. Tworzenie usuwanie kategorii - jest "Dodaj kategorie"
+3. Tworzenie miniaturek - jest konfigurowalne w CSS aktualnie rozmiar to 200px wysokości i włączone object-fit: cover, więc szerokość się dostraja.
+4. Edytowalne podpisy - z poziomu bazy danych.
+5. Zabezpieczenia - nie działa PPM i konsola pod F12
+6. Layout uniwersalny - jest.
+7. Instrukcja - jest.
+8. i 9. Kod źródłowy - Github, komentarze są. Zasada działania, dodaj zdjęcia wypełniając form i popatrz jak ładnie działa. Zdjęcia do kategorii możesz dodać tylko na początku.
