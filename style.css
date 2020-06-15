@@ -1,0 +1,46 @@
+html {
+    position: relative;
+    min-height: 100%;
+}
+body {
+    margin-bottom: 60px;
+}
+footer{
+  height: 30px;
+}
+
+.black-text{
+    color: black;
+}
+
+#drop{
+  width: 100%;
+  padding: 120px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+
+#buttons {
+  padding-bottom: 10px;
+}
+
+#buttons button {
+  margin-right: 5px;
+}
+
+#gallery div {
+  padding-bottom: 5px;
+}
+.zdjecia{
+	height: 200px;
+	width: 200px;
+  object-fit: cover;
+}
+.btn {
+	margin-top: 5px;
+	margin-right: 5px;
+}
